@@ -16,3 +16,8 @@ class Command:
         #
         ed.bookmark(BOOKMARK_SET, 9)
         ed.decor(DECOR_SET, line=9, image=0)
+        #
+        ed.bookmark(BOOKMARK_SET, 15, 2)
+        #
+        ed.bookmark(BOOKMARK_SET, 18, 3)
+        ed.decor(DECOR_SET, line=18, image=0)
