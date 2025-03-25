@@ -1,0 +1,11 @@
+[info]
+title=Gutter_test
+desc=Gutter_test
+type=cudatext-plugin
+subdir=cuda_gutter_test
+homepage=https://github.com/ildarkhasanshin/cuda_gutter_test
+
+[item1]
+section=commands
+caption=Gutter_test\Test
+method=test
